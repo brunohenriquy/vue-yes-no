@@ -46,7 +46,7 @@
         var vm = this
         axios.get('https://yesno.wtf/api')
           .then(function (response) {
-            vm.image = capitalize(response.data.image)
+            vm.image = response.data.image
             vm.answer = capitalize(response.data.answer)
           })
           .catch(function (error) {
