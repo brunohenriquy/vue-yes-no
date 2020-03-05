@@ -1,7 +1,8 @@
 <template>
   <div id="app">
+    <p><a href="https://github.com/brunohenriquy/vue-yes-no">GitHub Repo</a></p>
     <img alt="Vue logo" src="./assets/logo.png">
-    <YesNo msg="Welcome to Your Vue.js App"/>
+    <YesNo/>
   </div>
 </template>
 
