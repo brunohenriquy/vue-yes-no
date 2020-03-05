@@ -1,9 +1,6 @@
 # vue-yes-no
 
-## Try it here
-```
-https://vue-yes-no.herokuapp.com/
-```
+## Try it [here](https://vue-yes-no.herokuapp.com/)
 
 ## Project setup
 ```
