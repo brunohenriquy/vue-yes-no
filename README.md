@@ -1,5 +1,7 @@
 # vue-yes-no
 
+[![Heroku](http://heroku-badge.herokuapp.com/?app=vue-yes-no&style=flat&svg=1)](http://heroku-badge.herokuapp.com/?app=vue-yes-no&style=flat&svg=1)
+
 ## Try it [here](https://vue-yes-no.herokuapp.com/)
 
 ## Project setup
